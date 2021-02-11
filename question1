@@ -1,0 +1,7 @@
+x = input("Enter first num:")
+y = input("Enter second num:")
+
+print('sum is ',int(x)+int(y))
+print('subtraction is ',int(x)+int(y))
+print('multiplication is ',int(x)*int(y))
+print('division is ' ,int(x)/int(y))
