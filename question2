@@ -1,0 +1,4 @@
+x = input("Enter first num:")
+y = input("Enter second num:")
+
+print('x to power y is ',int(x)**int(y))
